@@ -37,6 +37,7 @@
     ![Pytorch](https://img.shields.io/badge/-Pytorch-333333?style=flat&logo=Pytorch)
     ![keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras)
     ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
+    ![OpenVino](https://img.shields.io/badge/-OpenVino-333333?style=flat&logo=OpenVino)
  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
