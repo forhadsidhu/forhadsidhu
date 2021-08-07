@@ -23,6 +23,11 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 💻 &nbsp;
+    ![Pytorch](https://img.shields.io/badge/-Pytorch-333333?style=flat&logo=Pytorch)
+    ![keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras)
+    ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
+    ![OpenVino](https://img.shields.io/badge/-OpenVino-333333?style=flat&logo=OpenVino)
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -33,11 +38,7 @@
   ![Odoo](https://img.shields.io/badge/-Odoo-333333?style=flat&logo=Odoo)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- 💻 &nbsp;
-    ![Pytorch](https://img.shields.io/badge/-Pytorch-333333?style=flat&logo=Pytorch)
-    ![keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras)
-    ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
-    ![OpenVino](https://img.shields.io/badge/-OpenVino-333333?style=flat&logo=OpenVino)
+
  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
