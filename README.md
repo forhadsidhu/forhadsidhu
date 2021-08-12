@@ -6,7 +6,7 @@
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studied Computer Science & Engineering @CUET.
+- 🎓 &nbsp; Studied Computer Science & Engineering at CUET.
 - 💼 &nbsp; Learning about Django Rest,Odoo,Go.
 
 
