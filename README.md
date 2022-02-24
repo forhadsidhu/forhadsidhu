@@ -37,6 +37,8 @@
   ![Odoo](https://img.shields.io/badge/-Odoo-333333?style=flat&logo=Odoo)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostGreSql](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=postgresql)
+  ![Redis](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=redis)
 
  
 - ⚙️ &nbsp;
