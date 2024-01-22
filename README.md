@@ -7,6 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studied Computer Science & Engineering at CUET.
+- 🤔 Have 5+ years work experience as software engineer in building  AI data product,ERP application.
 
 
 <br>
@@ -27,6 +28,9 @@
     ![keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras)
     ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
     ![OpenVino](https://img.shields.io/badge/-OpenVino-333333?style=flat&logo=OpenVino)
+    ![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=NodeJs)
+    ![FastApi](https://img.shields.io/badge/-FastApi-333333?style=flat&logo=FastApi)
+    ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -39,6 +43,10 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostGreSql](https://img.shields.io/badge/-PostGreSql-333333?style=flat&logo=postgresql)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+
+- 🌐 &nbsp;
+  ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-333333?style=flat&logo=GoogleCloud)
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=Streamlit)
 
  
 - ⚙️ &nbsp;
