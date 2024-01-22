@@ -54,6 +54,9 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
   ![TravisCi](https://img.shields.io/badge/-TravisCi-333333?style=flat&logo=TravisCi)
+  ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=BitBucket)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira)
+
 
 
   
