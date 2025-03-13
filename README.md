@@ -8,6 +8,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studied Computer Science & Engineering at CUET.
 - 🤔 Have 5+ years work experience as software engineer in building  AI data product,ERP application.
+- 🤔 Doing Research on Multi Modal based autism detection.
 
 
 <br>
